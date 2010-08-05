@@ -1,4 +1,4 @@
-function SprteDrawable(src) //a solid image
+function SpriteDrawable(src) //a solid image
 {
 	this.solid=true;
 	this.myImage = new Image();

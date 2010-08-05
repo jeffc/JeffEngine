@@ -2,7 +2,7 @@ var canvas = null;
 var c2d = null;
 var game = null;
 var elements = new Array();
-
+var viewport = null;
 
 function startGame()
 {
